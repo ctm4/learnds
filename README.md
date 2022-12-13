@@ -1,2 +1,2 @@
 # learnds
-learning data science
+learning data science through IBM on Coursera
